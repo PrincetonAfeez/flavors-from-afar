@@ -1,0 +1,11 @@
+/* Grouped experience links remain visible together in the expanded dropdown. */
+.nav-section-label{display:block;padding:12px;font-size:12px;line-height:1.5;letter-spacing:.14em;text-transform:uppercase;color:var(--olive)}
+.primary-navigation .nav-dropdown>.nav-panel-grouped{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:8px 24px;width:min(620px,calc(100vw - 2 * var(--page)));left:50%;transform:translateX(-50%)}
+.primary-navigation .nav-panel-grouped>.nav-direct-link{grid-column:1/-1;border-bottom:var(--rule);padding-bottom:8px}
+.primary-navigation .nav-panel-grouped>.nav-section{min-width:0}
+.primary-navigation .nav-panel-grouped>.nav-section+.nav-section{border-left:var(--rule);padding-left:12px}
+.primary-navigation .nav-panel-grouped a{font-size:16px;line-height:1.35}
+.mobile-navigation .nav-section{padding:8px 0}
+.mobile-navigation .nav-section-label{padding:12px 0 4px;font-size:12px}
+.mobile-navigation .nav-section+.nav-section{margin-top:8px}
+.mobile-navigation .nav-section a{margin-left:12px}

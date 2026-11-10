@@ -1,0 +1,17 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.googletagmanager.com; style-src 'self'; img-src 'self' data: https://www.googletagmanager.com https://*.google-analytics.com; font-src 'self'; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.google.com; frame-src https://www.opentable.com https://www.google.com; form-action 'self' https://www.opentable.com; frame-ancestors 'none'; base-uri 'self'; object-src 'none'
+  X-Robots-Tag: noindex, nofollow
+
+/assets/build/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/photos/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/calendar/ffa-events.ics
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=3600

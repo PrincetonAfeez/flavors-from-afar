@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flavors From Afar//Public Programs//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Flavors From Afar — Experiences
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20250309T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251102T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270314T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20271107T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20280312T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20281105T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:program-wine-wednesday@flavorsfromafar.com
+DTSTAMP:20261104T075418Z
+LAST-MODIFIED:20261104T075418Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261028T110000
+DTEND;TZID=America/Los_Angeles:20261028T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20271111T075900Z
+SUMMARY:Wine Wednesday
+DESCRIPTION:Every Wednesday · 11 AM–10 PM\n$10 Glasses\nFlights of Four 
+ · $25\n25% Off All Bottles\nCheck the FFA calendar page for last-minute u
+ pdates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/wine-wednesday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:program-afro-jazz-sunday@flavorsfromafar.com
+DTSTAMP:20261105T000754Z
+LAST-MODIFIED:20261105T000754Z
+SEQUENCE:2
+DTSTART;TZID=America/Los_Angeles:20261108T180000
+DTEND;TZID=America/Los_Angeles:20261108T220000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20271111T075900Z
+SUMMARY:Afro Jazz Sundays
+DESCRIPTION:Sundays · 6 PM and 8 PM seatings · Starts November 8\nLive Af
+ ro Jazz\nPan-African Dinner · African Wines & Cocktails\n6 PM and 8 PM se
+ atings\n$15 entertainment fee per guest\nCheck the FFA calendar page for l
+ ast-minute updates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/afro-jazz-sundays
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:program-passport-hour@flavorsfromafar.com
+DTSTAMP:20261104T195535Z
+LAST-MODIFIED:20261104T195535Z
+SEQUENCE:2
+DTSTART;TZID=America/Los_Angeles:20261025T150000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH,FR,SA,SU;UNTIL=20271111T075900Z
+SUMMARY:Passport Hour
+DESCRIPTION:Thursday–Sunday · 3–6 PM\n20% off the entire menu\nGroups 
+ of 4+ receive a complimentary shared appetizer\nDine-In Only\nCheck the FF
+ A calendar page for last-minute updates. A calendar entry does not reserve
+  a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/passport-hour
+STATUS:CONFIRMED
+EXDATE;TZID=America/Los_Angeles:20261126T150000,20261224T150000,20261225T15
+ 0000,20270101T150000
+END:VEVENT
+BEGIN:VEVENT
+UID:program-lunch-bowls@flavorsfromafar.com
+DTSTAMP:20261104T194315Z
+LAST-MODIFIED:20261104T194315Z
+SEQUENCE:2
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T150000
+RRULE:FREQ=WEEKLY;BYDAY=WE,TH,FR,SA,SU;UNTIL=20271111T075900Z
+SUMMARY:Flavors Lunch Express
+DESCRIPTION:Wednesday–Sunday · 11 AM–3 PM · To-go only\nComing Soon\n
+ Pan-African bowls and plates for pickup\nAdvance ordering for groups of 10
+  or more\nCheck the FFA calendar page for last-minute updates. A calendar 
+ entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/lunch-express
+STATUS:CONFIRMED
+EXDATE;TZID=America/Los_Angeles:20261126T110000,20261224T110000,20261225T11
+ 0000,20270101T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:program-homeland-dinners@flavorsfromafar.com
+DTSTAMP:20261105T035922Z
+LAST-MODIFIED:20261105T035922Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261105T190000
+DTEND;TZID=America/Los_Angeles:20261105T213000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20271111T075900Z
+SUMMARY:Homeland Dinners
+DESCRIPTION:Thursdays · Doors 6 PM · Dinner 7 PM\nFive-course dinner with
+  five African wine pairings\n$125 per person · Only 40 seats\nNon-alcohol
+ ic pairing available · Tickets required\nCheck the FFA calendar page for 
+ last-minute updates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/homeland-dinners
+STATUS:CONFIRMED
+EXDATE;TZID=America/Los_Angeles:20261126T190000,20261224T190000
+END:VEVENT
+BEGIN:VEVENT
+UID:program-birthday-celebrations@flavorsfromafar.com
+DTSTAMP:20261104T223423Z
+LAST-MODIFIED:20261104T223423Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=FR,SA;UNTIL=20271110
+SUMMARY:Birthday Celebration
+DESCRIPTION:Fridays & Saturdays · By reservation\nPersonalized birthday me
+ nu\nThree-course Pan-African dinner from $60 per person · Parties of 4 or
+  more\nBirthday guest dines free with 6 or more\nBook at least 48 hours ah
+ ead\nAvailable by advance reservation. This is an availability reminder\, 
+ not a booked appointment.\nCheck the FFA calendar page for last-minute upd
+ ates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/birthday-celebrations
+STATUS:CONFIRMED
+EXDATE;VALUE=DATE:20261225,20270101
+END:VEVENT
+BEGIN:VEVENT
+UID:program-brunch-saturday@flavorsfromafar.com
+DTSTAMP:20261105T031743Z
+LAST-MODIFIED:20261105T031743Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20271111T075900Z
+SUMMARY:Taste of Africa Endless Brunch (Saturday)
+DESCRIPTION:Saturdays · 11 AM–3 PM\nAdults $45 · Teens ages 11–17 $25
+ \nOne child age 10 or under eats free per paying adult\; additional childr
+ en age 10 or under are $10 each.\nCheck the FFA calendar page for last-min
+ ute updates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/brunch#saturday-brunch
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:program-brunch-sunday@flavorsfromafar.com
+DTSTAMP:20261105T031743Z
+LAST-MODIFIED:20261105T031743Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261108T110000
+DTEND;TZID=America/Los_Angeles:20261108T150000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20271111T075900Z
+SUMMARY:Taste of Africa Endless Brunch (Sunday)
+DESCRIPTION:Sundays · 11 AM–3 PM\nAdults $45 · Teens ages 11–17 $25\n
+ One child age 10 or under eats free per paying adult\; additional children
+  age 10 or under are $10 each.\nCheck the FFA calendar page for last-minut
+ e updates. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/brunch#sunday-brunch
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:program-cowork@flavorsfromafar.com
+DTSTAMP:20261104T193627Z
+LAST-MODIFIED:20261104T193627Z
+SEQUENCE:2
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE,TH,FR,SA,SU;UNTIL=20271111T075900Z
+SUMMARY:Flavors Cowork
+DESCRIPTION:Wednesday–Sunday · 11 AM–5 PM\nFree Wi-Fi · Comfortable i
+ ndoor seating\nOne food item and one beverage per visit\nNo day pass\, mem
+ bership or coworking fee\nCheck the FFA calendar page for last-minute upda
+ tes. A calendar entry does not reserve a table.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/cowork
+STATUS:CONFIRMED
+EXDATE;TZID=America/Los_Angeles:20261126T110000,20261224T110000,20261225T11
+ 0000,20270101T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:friends-from-afar-2026@flavorsfromafar.com
+DTSTAMP:20261105T051327Z
+LAST-MODIFIED:20261105T051327Z
+SEQUENCE:3
+DTSTART:20261126T013000Z
+DTEND:20261126T060000Z
+SUMMARY:Friends From Afar
+DESCRIPTION:A Pan-African Friendsgiving in Hollywood on November 25\, with 
+ two seatings\, a three-course dinner\, live Afrobeats DJ\, and a Thanksgiv
+ ing to-go plate.\nSeatings: 5:30 PM & 8 PM (Los Angeles time).\nThree-cour
+ se Pan-African prix fixe dinner with a choice of turkey\, beef\, fish\, or
+  vegetarian\nNon-alcoholic welcome beverage\nLive DJ spinning Afrobeats\nA
+  communal table\, or a private table for your group\nA Thanksgiving Day to
+ -go plate with turkey\, sides\, and dessert\nEarly bird: $65 through 2026-
+ 11-15\nRegular: $75\nOnly 40 seats per seating. Prepaid. No refunds after 
+ November 20\; tickets can be transferred to a friend.\nWine and beer sold 
+ separately. Wine Wednesday pricing all night: $10 glasses of African wine.
+ \nA calendar entry is not a reservation. View the event page for current d
+ etails and booking.
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/friendsgiving-los-angeles-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

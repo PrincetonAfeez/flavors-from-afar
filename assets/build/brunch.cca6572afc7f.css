@@ -1,0 +1,9 @@
+.brunch-hero h1{max-width:18ch}
+.brunch-lead h2{font-size:clamp(26px,3vw,40px);margin:0 0 .65em}
+.brunch-lead h3{margin:0 0 1em}
+.brunch-lead p{max-width:65ch}
+.brunch-details>section+section{margin-top:clamp(36px,6vw,72px);padding-top:clamp(32px,5vw,60px);border-top:var(--rule)}
+.brunch-details h2:first-of-type{margin-top:0}
+.brunch-details .button-row{margin-top:24px}
+.mobile-actions:has(a[data-program="brunch"][data-track="reserve_click"]){grid-template-columns:minmax(0,1.5fr) repeat(3,minmax(0,1fr))}
+.mobile-actions a[data-program="brunch"][data-track="reserve_click"]{text-align:center;line-height:1.2}

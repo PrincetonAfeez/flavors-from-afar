@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flavors From Afar//Events//EN
+BEGIN:VEVENT
+UID:2026-11-25-friendsgiving-2000@flavorsfromafar.co
+DTSTAMP:20261110T184130Z
+DTSTART:20261126T040000Z
+DTEND:20261126T060000Z
+SUMMARY:Friends From Afar — 8:00 PM seating
+LOCATION:5652 Hollywood Blvd\, Los Angeles\, CA 90028
+URL:https://www.flavorsfromafar.com/events/friendsgiving-los-angeles-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
